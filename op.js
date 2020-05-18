@@ -4,4 +4,6 @@ var t =122
 var b =536
 var a =85
 var get = 69
+var hui = 5698
+var bnji =5569
 
